@@ -12,6 +12,7 @@ En caso contrario,a continuación se detallan los pasos para contribuir y tener 
 ![image](https://user-images.githubusercontent.com/96821214/147670644-5b836bae-41d7-4779-9cc5-781a033aef05.png)
 
 3.-En este punto ya puedes hacer todos los cambios que quieras como si fuera tu repositorio. En este punto tienes 2 opciones:
+
   A Subir los archivos directamente al repositorio que acabas de "forkear"
   ![image](https://user-images.githubusercontent.com/96821214/147671164-efefb95a-59a5-4f1f-850b-3ff78a0f29f8.png)
 
