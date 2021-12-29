@@ -20,7 +20,7 @@ En caso contrario,a continuación se detallan los pasos para contribuir y tener 
   ![image](https://user-images.githubusercontent.com/96821214/147671616-8f6d9b95-2d94-4b21-981e-c525050c16aa.png)
 
 **Recuerda subir los ejercicios de forma clara para que el resto lo podamos entender. Si subes toda la carpeta para probar, debes tener un archivo *ejercicios.cpp* tal y como he hecho yo. En caso de no subir los ejercicios adecuadamente, el pull será rechazado...** Adjunto un video de COMO subir los archivos bien:
-https://user-images.githubusercontent.com/96821214/147679386-413d7b6a-c2be-4e59-a1eb-92d11ec76cb8.mp4
+[enlace](https://user-images.githubusercontent.com/96821214/147679386-413d7b6a-c2be-4e59-a1eb-92d11ec76cb8.mp4)
 
 4.- Todavía no hemos terminado. Una vez hayas hecho todos los cambios, subido todos los archivos,etc tienes que hacer un **pull request** para que pueda ver los cambios que quieres hacer y darte el visto bueno. 
 ![image](https://user-images.githubusercontent.com/96821214/147671991-17b265c3-ee5f-430f-8fc3-547d01244af8.png)
