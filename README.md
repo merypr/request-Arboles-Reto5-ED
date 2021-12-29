@@ -20,7 +20,7 @@ En caso contrario,a continuación se detallan los pasos para contribuir y tener 
   ![image](https://user-images.githubusercontent.com/96821214/147671616-8f6d9b95-2d94-4b21-981e-c525050c16aa.png)
 
 
-4.- Todavía no hemos terminado. Una vez hayas hecho todos los cambios, subido todos los archivos,etc tiene que hacer un **pull request** para que pueda ver los cambios que quieres hacer y darte el visto bueno. 
+4.- Todavía no hemos terminado. Una vez hayas hecho todos los cambios, subido todos los archivos,etc tienes que hacer un **pull request** para que pueda ver los cambios que quieres hacer y darte el visto bueno. 
 ![image](https://user-images.githubusercontent.com/96821214/147671991-17b265c3-ee5f-430f-8fc3-547d01244af8.png)
 ![image](https://user-images.githubusercontent.com/96821214/147672099-622819f4-5170-4d51-a3ea-d88f3f62cc87.png)
 ![2021-12-29_15-28](https://user-images.githubusercontent.com/96821214/147672376-9d1a4123-1d98-4e09-beba-23aee608226f.png)
