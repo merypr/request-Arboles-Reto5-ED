@@ -19,7 +19,7 @@ En caso contrario,a continuación se detallan los pasos para contribuir y tener 
   B Crear un nuevo repositorio propio y pasar el enlace al "forkeado".(Modifica solo el **README.md** de la carpeta correspondiente)
   ![image](https://user-images.githubusercontent.com/96821214/147671616-8f6d9b95-2d94-4b21-981e-c525050c16aa.png)
 
-**Recuerda subir los ejercicios de forma clara para que el resto lo podamos ver. Si subes toda la carpeta para probar, debes tener un archivo *ejercicios.cpp* tal y como he hecho yo. En caso de no subir los ejercicios adecuadamente, el pull será rechazado...** Adjunto un video de COMO subir los archivos bien:
+**Recuerda subir los ejercicios de forma clara para que el resto lo podamos entender. Si subes toda la carpeta para probar, debes tener un archivo *ejercicios.cpp* tal y como he hecho yo. En caso de no subir los ejercicios adecuadamente, el pull será rechazado...** Adjunto un video de COMO subir los archivos bien:
 
 
 4.- Todavía no hemos terminado. Una vez hayas hecho todos los cambios, subido todos los archivos,etc tienes que hacer un **pull request** para que pueda ver los cambios que quieres hacer y darte el visto bueno. 
