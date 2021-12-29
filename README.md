@@ -3,7 +3,7 @@ Si has contribuido y te he dado acceso, ve a este enlace con el repositorio priv
 
 [RepoPriv](https://github.com/DonOreo/Arboles-Reto-5-ED-)
 
-En caso contrario,a continuación se detallan los pasos para contribuir y tener acceso al resto de archivos. (Todo estos pasos los hago en el siguiente video [enlace]()
+En caso contrario,a continuación se detallan los pasos para contribuir y tener acceso al resto de archivos. (Todo estos pasos los hago en el siguiente video [enlace](https://drive.google.com/file/d/1ulrtW6u715J9dG7eeK2kGpyqxhjd47KG/view?usp=sharing)
 
 1.-Hacer un fork de este repositorio pinchando en el boton de **Fork** arriba a la derecha:
   ![image](https://user-images.githubusercontent.com/96821214/147670160-a610a31e-031c-4619-8e08-945c4ca58085.png)
