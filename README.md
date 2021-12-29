@@ -30,5 +30,7 @@ En caso contrario,a continuación se detallan los pasos para contribuir y tener 
 5.-Una vez dentro del apartado de **pull request** tienes que escribir lo siguiente:
 ![image](https://user-images.githubusercontent.com/96821214/147672730-ef91b8ee-83f2-4360-8f6a-5b77608896ec.png)
 
+**ATENCIÓN: Una vez subido el pull no puede ser borrado, solo modificado**
+
 6.-Ya está! Recibirás un correo cuando haya aceptado tu solicitud y tendrás acceso al repositorio privado:
 [RepoPriv](https://github.com/DonOreo/Arboles-Reto-5-ED-)
